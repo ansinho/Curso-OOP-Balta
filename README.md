@@ -16,6 +16,5 @@ Eu sou Anderson, um entusiasta do desenvolvimento de software com um foco especi
 
 Contato:
 
-Email: seuemail@example.com
-LinkedIn: Seu Perfil
-Twitter: @seu_usuario
+Email: ands.david@live.com
+LinkedIn: linkedin.com/in/ansinho
